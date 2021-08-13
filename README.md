@@ -1,3 +1,4 @@
+![tic tac toe](https://user-images.githubusercontent.com/54370773/129425345-f9422c91-f6f7-4b61-9633-ec9db6c8f657.png)
 # 3DTicTacToe
 This was a project I did to familiarize myself with working with GUIs. Specifically, I used the Swing library in the Java library. Because I was learning, I locked it to 720p. The project is broken down into a few components. 
 
